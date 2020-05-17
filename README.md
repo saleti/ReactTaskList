@@ -1,2 +1,0 @@
-# ReactTaskList
-Created with CodeSandbox
